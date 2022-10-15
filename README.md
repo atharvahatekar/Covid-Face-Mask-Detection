@@ -41,7 +41,7 @@ ___
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align = "center">
-<img src=" " height="300" />
+<img src="epoch_result.png " height="300" />
 </p>
 </div>
 
@@ -51,14 +51,14 @@ ___
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align = "center">
-<img src=" " height="300" />
+<img src="nomask_detection.png" height="300" />
 </p>
 </div>
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align = "center">
-<img src=" " height="300" />
+<img src="mask_detection.png" height="300" />
 </p>
 </div>
 
