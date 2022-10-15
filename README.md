@@ -13,4 +13,14 @@ I have used 3000 images of people with mask on them and also
 3000 pictures of people without mask.
 
 #With Mask:
-<img src="mask image.png" height="185" width="185" style="border-radius:3px;border:solid 1px #666" />
+
+
+
+<img src="mask image.png" height="300" width="300" style="border-radius:3px;border:solid 1px #666" />
+
+
+#without Mask:
+
+
+
+<img src="without mask image.png" height="300" width="300" style="border-radius:3px;border:solid 1px #666" />
