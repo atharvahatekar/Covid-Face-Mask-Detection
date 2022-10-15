@@ -1,4 +1,5 @@
-# Covid-Face-Mask-Detection
+### Covid-Face-Mask-Detection
+___
 Face Mask Detection System built by Keras/TensorFlow, Deep Learning and Computer Vision concepts
 COVID Face Mask Detection
 
@@ -12,25 +13,75 @@ dataset.
 I have used 3000 images of people with mask on them and also
 3000 pictures of people without mask.
 
+___
+Custom Data Set
 
 #With Mask:
+
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align = "center">
-<img src="mask image.png" height="300" width="300" style="border-radius:3px;border:solid 1px #666" />
+<img src="mask image.png" height="300" />
 </p>
 </div>
 
+
 #without Mask:
+
+<p align="center">
+<img height="300" src="unmask_image.png" />
+</p>
+</div>
+
+
+___
+
+#Epoch result: <br/>
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align = "center"
-<img src="whithout mask image.png" height="300" width="300" style="border-radius:3px;border:solid 1px #666" />
-</P>
+<p align = "center">
+<img src=" " height="300" />
+</p>
 </div>
 
-#Training with the help of Tensorflow and Keras:
+
+#Mask Detection: <br/>
+
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align = "center">
+<img src=" " height="300" />
+</p>
+</div>
+
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align = "center">
+<img src=" " height="300" />
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___
+#Training with the help of Tensorflow and Keras: <br />
 Now that we’re done with our face mask dataset, let’s use Keras 
 and TensorFlow to train a classifier to automatically detect 
 whether a person is wearing a mask or not.
@@ -41,7 +92,7 @@ Deploying our face mask detector to embedded devices could
 reduce the cost of manufacturing such face mask detection 
 systems, hence why I choose to use this architecture.
 
-#MobileNetV2:
+#MobileNetV2: <br />
 It is a model developed by google.
 MobileNetV2 is a convolutional neural network 
 architecture that seeks to perform well on mobile devices. 
@@ -55,7 +106,7 @@ with 32 filters, followed by 19 residual bottleneck layers.
 I have completed training in jupyter notebook. In the project
 there is a ‘train.ipynb’ file which contain code for training.
 
-#SciKit Learn:
+#SciKit Learn: <br />
 Scikit-learn (formerly scikits.learn and also known
 as sklearn) is a free software machine learning library for the 
 Python programming language.It features various classification, 
@@ -67,7 +118,7 @@ Scikit-learn (sklearn) has been used for binarizing
 class labels, segmenting our dataset, and printing a classification 
 report.
 
-#Imutils:
+#Imutils: <br />
 
 It contains A series of convenience functions to make
 basic image processing functions such as translation, rotation, 
